@@ -1,0 +1,26 @@
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.exe.config
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.exe
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.pdb
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.xml
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbprojAssemblyReference.cache
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Frm_GestionEntraineur_AJ.resources
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Resources.resources
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbproj.GenerateResource.cache
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbproj.CoreCompileInputs.cache
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.exe
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.xml
+C:\Users\thbogusz\OneDrive - Région Nouvelle Aquitaine\Lycee\BTSSIO\btssio.2\PPE\_AP_NEW_AGNES_THIERRY\AP2.1.KARATE.ACCESS.VB.NET\etudiant\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.pdb
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.exe.config
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.exe
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.pdb
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\bin\Debug\PPE2.1_KARATE.xml
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Form1.resources
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Resources.resources
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.vbproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.exe
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.xml
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2.1_KARATE.pdb
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Form_Comp_AJ.resources
+C:\Users\lucas\OneDrive\Bureau\BTS SIO\PPE\Activité 5\ap2.1_equipe1\PROJET_PPE2.1_KARATE\PPE2.1_KARATE\obj\Debug\PPE2._1_KARATE.Form_Comp_MS.resources
